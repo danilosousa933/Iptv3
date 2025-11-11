@@ -1,0 +1,61 @@
+#EXTM3U
+
+# === FILMES E SÉRIES ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Pluto_TV_logo_2020.svg", Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fce3e2cf247130007ad95ec/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Pluto_TV_logo_2020.svg", Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fce3b4b902e270007eea2a3/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Vix_logo.png", Vix Filmes e Séries
+https://dai.google.com/linear/hls/event/HYd_FjH8Rcqddc3UxI2ODw/master.m3u8
+
+# === CANAIS ABERTOS BRASIL ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/TV_Brasil_logo_2021.svg", TV Brasil
+https://ebcremux.ebc.com.br/hls/live/2103289/tvbrasil/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Record_News_logo_2018.svg", Record News
+https://playplusnews-lh.akamaihd.net/i/ppnews_1@377859/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TV_Camara_logo.png", TV Câmara
+https://camara.akamaized.net/hls/live/2037225/tvcamara/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Senado_logo.png", TV Senado
+https://senado.akamaized.net/hls/live/2037226/senado/master.m3u8
+
+# === FUTEBOL E ESPORTES ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Pluto_TV_logo_2020.svg", Pluto TV Futebol
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6308b4eafed94900076f2de3/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Red_Bull_TV_logo.svg", Red Bull TV Esportes
+https://rbmn-live.akamaized.net/hls/live/590964/BoRBTV/master.m3u8
+
+# === NOVELAS ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Pluto_TV_logo_2020.svg", Pluto TV Novelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fcf04b7b72bba0007e1e700/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Vix_logo.png", Vix Novelas
+https://dai.google.com/linear/hls/event/8x0FW6KoQKi7RuFZlQsdRw/master.m3u8
+
+# === DESENHOS E INFANTIL ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Pluto_TV_logo_2020.svg", Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fce3b8a902e270007eea2b3/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Vix_logo.png", Vix Kids
+https://dai.google.com/linear/hls/event/hUo4hKxeRfCkV6lJb7nLEg/master.m3u8
+
+# === GAMES E ESPORTS ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Twitch_logo.svg", Twitch Games (AO VIVO)
+https://www.twitch.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Red_Bull_TV_logo.svg", Red Bull eSports
+https://rbmn-live.akamaized.net/hls/live/590964/BoRBTV/master.m3u8
+
+# === MÚSICA ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Pluto_TV_Music_logo.svg", Pluto TV Música
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fca62b33d1f89000766b5ff/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Radio_Globo_logo.png", Rádio Globo (áudio)
+https://radioglobo.inf.br/live/stream.m3u8
+
+# === DOCUMENTÁRIOS ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Pluto_TV_logo_2020.svg", Pluto TV Documentários
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fce3cce902e270007eea3b5/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/NASA_TV_logo.svg", NASA TV (Ciência e espaço)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
+
+# === INTERNACIONAIS LIVRES ===
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Deutsche_Welle_Logo.svg", DW English (Internacional)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/France_24_logo.svg", France 24 (English)
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
